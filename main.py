@@ -19,3 +19,4 @@ def play(word):
    print(display_hangman(tries))
    print(word_completion)
    print("\n")
+   print('het woord heeft', len(word), 'letters')
